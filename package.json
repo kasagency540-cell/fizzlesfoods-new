@@ -1,0 +1,9 @@
+{
+  "name": "fizzlesfoods-netlify-blobs",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
